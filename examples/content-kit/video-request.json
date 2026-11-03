@@ -1,0 +1,9 @@
+{
+  "model": "grok-imagine-1.5-video",
+  "input": {
+    "prompt": "A single orange paper lantern floats slowly above a quiet midnight blue lake, warm reflection, subtle camera push forward, no text, no logos",
+    "duration": 6,
+    "resolution": "480p",
+    "size": "16:9"
+  }
+}
